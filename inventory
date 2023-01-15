@@ -1,2 +1,11 @@
+##################
+
+[nodes]
 192.168.135.133
 192.168.135.134
+
+
+[nodes:vars]
+ansible_python_interpreter=/usr/bin/python3
+
+##################
